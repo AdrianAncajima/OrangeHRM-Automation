@@ -33,7 +33,7 @@ Este proyecto tiene como objetivo automatizar el proceso de creación de un nuev
     2. Hacer clic en el botón "Guardar".
 - Resultado Esperado: Se muestra un mensaje de confirmación y muestra el nuevo empleado creado.
 
-# Caso de Prueba 6: Buscar Empleado Existente y validar
+# Caso de Prueba 4: Buscar Empleado Existente y validar
 - Descripción: Verificar que el usuario puede buscar un empleado existente en la lista.
 - Pasos:
     1. Navegar a la sección "PIM".
